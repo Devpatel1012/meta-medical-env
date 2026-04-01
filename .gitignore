@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+
+# Conda/Virtualenvs
+env/
+venv/
+.conda/
+
+# OS generated files
+.DS_Store
