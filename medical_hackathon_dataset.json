@@ -1,0 +1,866 @@
+[
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of persistent cough, fatigue, and shortness of breath. She denies any fever or chest pain. Her past medical history is significant for asthma and seasonal allergies. What are the three main symptoms?",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of feeling unwell for the past week. Her symptoms include fatigue, headaches, and a persistent cough. Extraction of the three main symptoms from this patient's complaint is required. ",
+        "answer": [
+            "Fatigue",
+            "Headaches",
+            "Persistent Cough"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "Given the following patient medical history: 'Patient is a 45-year-old male presenting with persistent cough, fatigue, and shortness of breath for the past week.', extract the three main symptoms.",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of frequent headaches, nasal congestion, and fatigue. Identify the three main symptoms.",
+        "answer": [
+            "headaches",
+            "nasal congestion",
+            "fatigue"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of fatigue, body aches, and frequent headaches for the past week. She also mentions a recent onset of a sore throat and a low-grade fever. Identify the three main symptoms.",
+        "answer": [
+            "fatigue",
+            "body aches",
+            "headaches"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of frequent headaches, fatigue, and shortness of breath. Identify the three main symptoms.",
+        "answer": [
+            "headaches",
+            "fatigue",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of fatigue, headache, and shortness of breath. Identify the three main symptoms.",
+        "answer": [
+            "Fatigue",
+            "Headache",
+            "Shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "Given the following patient record, please identify the three main symptoms: \nName: John Doe\nAge: 45\nComplaints: 'I have a constant cough, I feel fatigued all the time, and my muscles and joints ache.'",
+        "answer": [
+            "constant cough",
+            "fatigue",
+            "muscle and joint pain"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of a persistent cough, body aches, and a low-grade fever. What are the three main symptoms?",
+        "answer": [
+            "persistent cough",
+            "body aches",
+            "low-grade fever"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of persistent cough and fatigue. She also mentions having occasional body aches and a low-grade fever. Identify the three main symptoms.",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "occasional body aches"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of a persistent cough, fatigue, and intermittent headaches. The patient denies any fever, shortness of breath, or chest pain. She reports that her symptoms have been present for the past two weeks.",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "intermittent headaches"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of persistent cough, fatigue, and shortness of breath. She denies any fever, chest pain, or recent travel. Her past medical history is significant for asthma and hypertension. Her vitals are within normal limits. Based on this information, identify the three main symptoms.",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "Given a list of symptoms for a patient, identify the three main symptoms.",
+        "answer": [
+            "Persistent cough",
+            "High fever",
+            "Severe headache"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "Given the following patient history, identify the three main symptoms: A 45-year-old female presents with a chief complaint of intermittent abdominal pain, frequent headaches, and increased frequency of urination,\nLab results: HbA1c: 6.5%, Creatinine: 1.2 mg/dL, WBC: 11.5 K/ul, RBC: 4.5 M/ul, Hct: 42.5%\nMedications: Metformin 1000mg PO BID, Ibuprofen 200mg QID PRN",
+        "answer": [
+            "Intermittent abdominal pain",
+            "Frequent headaches",
+            "Increased frequency of urination"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of persistent headache, fatigue, and frequent coughing. Identify the three main symptoms.",
+        "answer": [
+            "headache",
+            "fatigue",
+            "coughing"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female presents with intermittent abdominal pain, bloating, and diarrhea for the past 3 weeks. She reports no fever, weight loss, or significant change in bowel habits. She denies any recent travel or consumption of raw foods. Her past medical history is significant for hypertension, for which she takes daily medication. Physical examination reveals normal vital signs, but mild tenderness in the left lower quadrant of her abdomen. Which test is most appropriate to evaluate the possible cause of her symptoms?",
+        "answer": "Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent abdominal pain, loss of appetite, and unintended weight loss. Upon physical examination, her liver is palpable 2 cm below the right costal margin. Which test is most appropriate to diagnose potential causes of her symptoms, including possible liver disease?",
+        "answer": "Abdominal Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent upper abdominal pain, jaundice, and dark urine. She has a history of heavy alcohol consumption and mildly elevated liver enzymes. Which imaging or lab test is most appropriate to diagnose her condition?",
+        "answer": "Magnetic Resonance Cholangiopancreatography (MRCP) or Serum Alkaline Phosphatase, Gamma-Glutamyl Transferase, and Total Bilirubin tests",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with intermittent abdominal pain, bloating, and weight loss. She reports no history of fever, chills, or diarrhea. Physical exam reveals a palpable mass in the right lower quadrant. Which imaging test would be most appropriate for further evaluation of this patient's symptoms and findings?",
+        "answer": "Abdominal CT scan",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent cough, chest pain, and shortness of breath. She has a 30 pack-year smoking history. Which imaging modality is recommended for further evaluation?",
+        "answer": "Chest CT scan",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent cough, chest pain, and shortness of breath. Chest X-ray shows an infiltrate in the right lower lobe. Sputum culture grows Mycobacterium tuberculosis. Which test would be most appropriate to confirm the diagnosis and determine the extent of the infection?",
+        "answer": "Computed Tomography (CT) scan of the lungs",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with progressive abdominal pain and bloating for the past six weeks. She reports fatigue and weight loss. Medical history is significant for hypertension and hypothyroidism. Physical exam reveals a palpable mass in the right lower quadrant. Laboratory tests reveal anemia and elevated white blood cell count. What is the recommended diagnostic test to identify the cause of the patient's symptoms?",
+        "answer": "Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent abdominal pain, bloating, and frequent loose stools for the past month. Her medical history includes hypothyroidism, which is well-controlled with levothyroxine. She denies any recent travel, exposure to contaminated water, or recent use of antibiotics. Physical exam reveals mild abdominal tenderness in the left lower quadrant. Which imaging study or lab test would be most appropriate to investigate this patient's symptoms?",
+        "answer": "Abdominal ultrasound or CT scan with contrast",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female patient presents with persistent abdominal pain, nausea, and fatigue. She reports a recent 10-pound weight loss. Medical history includes hypertension and hypothyroidism. Physical examination reveals mild epigastric tenderness. Laboratory tests show mild anemia and elevated liver enzymes. Which imaging modality or lab test would be most appropriate to further evaluate this patient's condition?",
+        "answer": "Consider an abdominal ultrasound or CT scan to evaluate for potential causes such as gallstones, liver disease, or masses.",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female patient presents with persistent abdominal pain, loss of appetite, and jaundice. She reports a feeling of fullness in the upper right quadrant of her abdomen. Her medical history includes a family history of liver disease. Which diagnostic test is recommended to further investigate these symptoms?",
+        "answer": "Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent upper abdominal pain, jaundice, and dark urine for the past week. She has a history of heavy alcohol consumption. Which imaging modality would be the most appropriate first-line test to evaluate for potential liver damage?",
+        "answer": "Abdominal Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "45-year-old female presents with persistent cough, chest pain, and shortness of breath. She has a history of smoking one pack of cigarettes a day for 20 years. The physical examination reveals decreased breath sounds and crackles heard in the left lung field. What is the most appropriate diagnostic test to confirm the presence of lung disease?",
+        "answer": "Chest CT scan",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female patient presents with persistent, severe headaches and intermittent blurred vision for the past month. She also reports dizziness and nausea. There is no history of trauma. Neurological exam reveals no focal neurological deficits. What is the most appropriate medical imaging test to diagnose this condition?",
+        "answer": "Magnetic Resonance Imaging (MRI) of the brain",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent upper abdominal pain, jaundice, and dark urine. She reports a loss of appetite and unintentionally lost 10 pounds in the past month. Blood tests reveal elevated liver enzymes and bilirubin levels. Which imaging or lab test is most appropriate to further evaluate this patient's condition?",
+        "answer": "Magnetic Resonance Cholangiopancreatography (MRCP) or Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent abdominal pain, nausea, and vaginal bleeding. She has a history of endometriosis. Which medical imaging test or lab test is most appropriate to diagnose or rule out ovarian cancer?",
+        "answer": "Transvaginal ultrasound and CA-125 blood test",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "55-year-old female presents with progressive shortness of breath and chest pain for 2 months, accompanied by a dry cough. Lab results reveal elevated D-dimer (3.5 mg/L), troponin (0.5 ng/mL), and BNP (200 pg/mL).",
+        "answer": "Pulmonary Embolism",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old female presents with progressive shortness of breath and chest pain for 2 months. Chest X-ray shows cardiomegaly and bilateral pleural effusions. Lab results: Hb 8 g/dL, WBC 15 k/mm3, Cr 2.5 mg/dL, BNP 1000 pg/mL.",
+        "answer": "Left ventricular dysfunction with congestive heart failure and pleural effusions.",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old male presents with progressive shortness of breath, chest pain, and a cough productive of pink frothy sputum. Chest X-ray reveals bilateral infiltrates, and BNP level is 1500 pg/mL.",
+        "answer": "Congestive heart failure",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old female presents with progressively worsening abdominal pain and bloating for the past month. lab results reveal elevated white blood cell count (14.5 x 10^9/L) and high C-reactive protein (150 mg/L).",
+        "answer": "Given the symptoms of abdominal pain and bloating along with elevated white blood cell count and C-reactive protein, the top differential diagnosis is appendicitis or inflammatory bowel disease. However, given the age, elevated white blood cell count, and high CRP, appendicitis is more likely.",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "35-year-old female presents with progressive shortness of breath, chest pain, and hemoptysis. Chest X-ray shows a mass in left lower lobe of lung, and CBC reveals a hemoglobin level of 7 g/dL and platelet count of 50,000//\u00b3L. ",
+        "answer": "Left lung cancer with hemorrhage and anemia and thrombocytopenia",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 52 years old, presents with progressive shortness of breath and chest pain for 3 weeks. Lab results show a white blood cell count of 15,000/mm3 and a hemoglobin level of 9 g/dL.",
+        "answer": "Differential diagnosis: Dilated Cardiomyopathy, Sepsis, Acute Leukemia",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 45 years old, presents with progressively worsening abdominal pain, loss of appetite, and 15 lb weight loss over 2 months. Lab results reveal anemia (hemoglobin: 9 g/dL), thrombocytopenia (platelet count: 50,000/mm3), and elevated alanine transaminase (ALT: 200 U/L).",
+        "answer": "Suspected Thalassemia Major",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old male presents with progressively worsening shortness of breath and fatigue for 2 months. Chest X-ray shows bilateral interstitial infiltrates and BNP level is 1000 pg/ml.",
+        "answer": "Dilated cardiomyopathy",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "35-year-old female presents with progressively worsening shortness of breath and fatigue for 2 months. Chest X-ray shows bilateral infiltrates and BNP level is 1000 pg/ml.",
+        "answer": "Dilated cardiomyopathy",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old male presents with progressive shortness of breath, orthopnea, and cough producing pink frothy sputum. CBC shows leukocytosis with a left shift, and BNP level is 1500 pg/mL.",
+        "answer": "Acute decompensated heart failure",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 55 years old, presents with progressively worsening shortness of breath and fatigue for 6 weeks. Chest X-ray shows bilateral infiltrates and echocardiogram reveals a large pericardial effusion. Lab results: Hb 9.5 g/dL, WBC 11.2 x 10^3/\u03bcL, CRP 120 mg/L, Troponin I 2.5 ng/mL, ANA positive.",
+        "answer": "Pericardial malignancy (most likely lymphoma)",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 58 years old, presenting with progressive shortness of breath and chest pain for the past month. Lab results reveal a white blood cell count of 15.2 K/mm3, hemoglobin level of 9.5 g/dL, and a creatinine level of 2.5 mg/dL.",
+        "answer": "Dilated cardiomyopathy",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old male presents with progressive shortness of breath and chest pain for 2 months. Lab results reveal a hemoglobin level of 9 g/dL, creatinine of 2.5 mg/dL, and troponin of 3.2 ng/mL.",
+        "answer": "Ischemic cardiomyopathy due to chronic coronary artery disease",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 52 years old, presents with progressive shortness of breath and chest pain for 2 weeks. Lab results: Hb 9.5 g/dL, Hct 29.3%, Cr 1.5 mg/dL, Troponin I 2.5 ng/mL, D-dimer 5.3 \u00b5g/mL",
+        "answer": "Chronic Thromboembolic Disease",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old female presents with progressive shortness of breath and fatigue over the past month. Chest X-ray reveals bilateral interstitial infiltrates and BNP level is 1000 pg/mL.",
+        "answer": "Idiopathic Pulmonary Fibrosis or Heart Failure",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of persistent headache, fatigue, and cough. Identify the three main symptoms.",
+        "answer": [
+            "headache",
+            "fatigue",
+            "cough"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of abdominal pain and bloating. She also mentions experiencing frequent headaches and fatigue. Identify the three main symptoms.",
+        "answer": [
+            "Abdominal pain",
+            "Bloating",
+            "Fatigue"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of persistent cough, fatigue, and shortness of breath. Identify the three main symptoms.",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of cough, fatigue, and shortness of breath. Her medical history is significant for asthma and gastroesophageal reflux disease. She denies any fever, chest pain, or recent travel. What are the three main symptoms presented by this patient?",
+        "answer": [
+            "cough",
+            "fatigue",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "Given the following patient medical record, identify the three main symptoms: \nPatient is a 45-year-old female who presents with a chief complaint of fatigue, shortness of breath, and a persistent cough.\nPhysical examination reveals tachycardia, increased respiratory rate, and decreased breath sounds in the left lung field.\nLab results show anemia, high white blood cell count, and mildly elevated creatinine level.",
+        "answer": [
+            "Fatigue",
+            "Shortness of breath",
+            "Persistent cough"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of a persistent cough, fatigue, and intermittent headaches. Provide the three main symptoms.",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "intermittent headaches"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "Given the following patient history: a 45-year-old woman presenting with a 1-week history of fatigue, frequent headaches, and a persistent cough. Identify the three main symptoms.",
+        "answer": [
+            "Fatigue",
+            "Frequent headaches",
+            "Persistent cough"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of recurring headaches, fatigue, and shortness of breath. Identify the three main symptoms.",
+        "answer": [
+            "headaches",
+            "fatigue",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with a chief complaint of feeling unwell. She reports fatigue, a cough, and body aches. Which are the three main symptoms?",
+        "answer": [
+            "fatigue",
+            "cough",
+            "body aches"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with the chief complaint of a persistent cough, fatigue, and body aches. She denies any fever or shortness of breath. Which are the three main symptoms?",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "body aches"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "Given the following symptoms reported by a patient: headache, fatigue, and fever. Extract the three main symptoms.",
+        "answer": [
+            "headache",
+            "fatigue",
+            "fever"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of a persistent cough, fatigue, and intermittent headaches. Identify the three main symptoms.",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "intermittent headaches"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with the chief complaint of a persistent cough accompanied by intermittent chest pain and shortness of breath. She denies any fever, chills, or weight loss. The patient has no known allergies and is not currently taking any medications. Please identify the three main symptoms.",
+        "answer": [
+            "persistent cough",
+            "intermittent chest pain",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with complaints of a persistent cough, fatigue, and intermittent headaches. What are the three main symptoms?",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "intermittent headaches"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female patient presents with the chief complaint of a persistent cough, fatigue, and a low-grade fever. She denies any shortness of breath, chest pain, or weight loss. Her vital signs are within normal limits. The patient is otherwise healthy with no significant past medical history. Which are the three main symptoms?",
+        "answer": [
+            "persistent cough",
+            "fatigue",
+            "low-grade fever"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent abdominal pain, nausea, and vomiting for the past week. She reports a loss of appetite and a feeling of fullness in the upper right quadrant of her abdomen. She denies jaundice, fever, or weight loss. Her medical history is significant for hypertension and gout. Physical exam reveals tender hepatomegaly and a palpable mass in the right upper quadrant. Laboratory results show a slightly elevated liver enzyme level. What is the most appropriate diagnostic test to confirm the suspected etiology of her symptoms?",
+        "answer": "Abdominal ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "Female patient, age 45, presents with persistent abdominal pain, bloating, and weight loss. No known family history of gastrointestinal diseases. Physical exam reveals no abnormalities. Laboratory tests show anemia and leukocytosis. Stool sample is negative for occult blood. What is the recommended diagnostic test?",
+        "answer": "CT scan with contrast to evaluate for possible gastrointestinal malignancy",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent abdominal pain, intermittent fever, and dark urine for the past week. She has no significant past medical history and denies any recent travel or exposure to toxins. Physical exam reveals right upper quadrant tenderness. Which imaging study or lab test would be most appropriate to diagnose the possible condition?",
+        "answer": "Abdominal ultrasound or Hepatitis panel",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent upper abdominal pain, jaundice, and dark urine. She reports recent fatigue and unintentional weight loss. Physical examination reveals a palpable mass in the right upper quadrant. The patient has no significant past medical history or known family history of liver disease. Laboratory tests reveal an elevated alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels, and total bilirubin levels are more than twice the upper limit of normal. Ultrasound is recommended to further evaluate the possible cause of these symptoms.",
+        "answer": "Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent upper abdominal pain, jaundice, and dark urine. She reports a recent weight loss and loss of appetite. Lab results reveal an elevated alanine aminotransferase (ALT) and aspartate aminotransferase (AST) level. What is the most appropriate diagnostic test for this patient?",
+        "answer": "Magnetic Resonance Cholangiopancreatography (MRCP)",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female patient presents with persistent abdominal pain located in the upper right quadrant, loss of appetite, and jaundice. Laboratory tests reveal elevated levels of alanine transaminase (ALT) and aspartate transaminase (AST) with a total bilirubin of 3.5 mg/dL. What is the recommended medical imaging or lab test to further evaluate the cause of these symptoms?",
+        "answer": "Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with progressive abdominal pain, weight loss, and dark urine for the past month. She denies fever, chills, or jaundice. Physical exam reveals a palpable mass in the upper right quadrant of the abdomen. Serum bilirubin level is 2.5 mg/dL, alkaline phosphatase is 150 U/L, and albumin is 3.5 g/dL. ultrasound is recommended for further evaluation.",
+        "answer": "ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent abdominal pain, nausea, and vomiting. She has a history of heavy alcohol consumption and a family history of liver disease. A physical exam reveals a tender liver with a palpable mass. Which imaging test would be most appropriate to further evaluate this patient's symptoms and suspected liver disease?",
+        "answer": "Abdominal Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female patient presents with intermittent abdominal pain, bloating, and frequent episodes of diarrhea for the past month. She denies any fever, weight loss, or bleeding. A complete blood count and urinalysis were normal. What is the most appropriate medical imaging or lab test to further evaluate this patient's symptoms?",
+        "answer": "Abdominal CT scan or ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent upper abdominal pain, jaundice, and dark urine for the past week. She reports a loss of appetite and weight. Physical exam reveals enlarged liver and spleen. Lab results show an elevated alanine aminotransferase (ALT) level and total bilirubin level. What imaging or lab test would be most appropriate to further investigate this patient's symptoms?",
+        "answer": "Abdominal Ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent abdominal pain, loss of appetite, and unintended weight loss. She reports no history of recent travel or contact with sick individuals. Physical examination reveals a palpable mass in the right lower quadrant. What is the recommended medical imaging or lab test to diagnose the cause of the patient's symptoms?",
+        "answer": "Abdominal Computed Tomography (CT) scan",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with intermittent abdominal pain, bloating, and frequent diarrhea for the past month. She reports no recent travel or dietary changes. Physical exam reveals normal vital signs and no abnormalities. Lab tests show mild anemia and leukocytosis. What imaging or lab test is most appropriate to help diagnose the cause of her symptoms?",
+        "answer": "Colonoscopy",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with recurrent abdominal pain, nausea, and vomiting. She also reports a heavy menstrual cycle with clotting. Her medical history includes a hysterectomy 10 years ago. What is the most appropriate medical imaging or lab test to diagnose her condition?",
+        "answer": "Transvaginal ultrasound",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with progressive abdominal pain, weight loss, and dark urine for the past month. Recent lab results show anemia and elevated liver enzymes. Further workup is needed to identify the underlying cause.",
+        "answer": "Ultrasound and CT scan of the abdomen",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 45-year-old female presents with persistent abdominal pain, nausea, and vomiting for the past week. She reports a loss of appetite and weight loss of around 10 pounds. There is no history of recent travel or known food allergies. Physical examination reveals abdominal tenderness and a palpable mass. Laboratory tests show elevated alkaline phosphatase levels. What is the most appropriate medical imaging or lab test to confirm the diagnosis?",
+        "answer": "Abdominal Computed Tomography (CT) scan",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "Female patient, 55 years old, presents with progressive shortness of breath for 3 months, associated with chest pain and a dry cough. Recent lab results: Hb 9.5 g/dL, SaO2 88%, Troponin I 2.3 ng/mL, CK 250 U/L, D-dimer 3.5 \u00b5g/mL.",
+        "answer": "Pulmonary Embolism",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "50-year-old female presents with progressive shortness of breath and bilateral lower extremity swelling. Lab results reveal a hemoglobin level of 8 g/dL, creatinine 2.5 mg/dL, and a BNP level of 1000 pg/mL.",
+        "answer": "Heart failure, likely due to left ventricular dysfunction",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "35-year-old female presenting with progressive shortness of breath, dry cough, and chest pain for 2 months. CBC shows leukocytosis (12,000/mm3) and anemia (Hb: 9 g/dL). ECG reveals tachycardia and ST segment elevations. Chest X-ray shows bilateral infiltrates.",
+        "answer": "Acute Coronary Syndrome (ACS) or Pulmonary Embolism",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 45 years old, presents with progressive shortness of breath and chest pain for 2 weeks. Lab results reveal a high white blood cell count (15,000/mm3), anemia (Hb: 9 g/dL), and elevated troponin (3.5 ng/mL).",
+        "answer": "Myocardial infarction or acute coronary syndrome",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 58 years old, presents with progressive shortness of breath and chest pain for 2 months. Recent lab results show a hemoglobin level of 7.5 g/dL, creatinine 1.8 mg/dL, BNP 1000 pg/mL.",
+        "answer": "End-stage renal disease with congestive heart failure",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 45 years old, presents with progressive shortness of breath and chest pain for 2 weeks. Lab results reveal a hemoglobin level of 9 g/dL, a creatinine level of 1.5 mg/dL, and a troponin level of 1.2 ng/mL.",
+        "answer": "Ischemic heart disease (acute myocardial infarction)",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 52 years old, presents with progressive shortness of breath and chest pain for 2 months. Echocardiogram reveals left ventricular ejection fraction of 25%, and troponin levels are elevated at 3.5 ng/mL.",
+        "answer": "Ischemic cardiomyopathy",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old female presents with progressive shortness of breath and chest pain for 2 months. ECG shows ST-segment elevations in V1-V4, BNP level is 1000 pg/mL, troponin level is 4.5 ng/mL.",
+        "answer": "Myocardial infarction",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 45 years old, presents with chronic fatigue, intermittent fever, and arthralgias. Lab results reveal elevated erythrocyte sedimentation rate (ESR) of 70 mm/h and C-reactive protein (CRP) of 10 mg/dL.",
+        "answer": "Systemic Lupus Erythematosus (SLE)",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 45 years old, presents with fatigue, shortness of breath, and a 10-lb unintentional weight loss over the past month. Lab results reveal a hemoglobin level of 8 g/dL, hematocrit of 24%, and a white blood cell count of 15.3 k/mm3.",
+        "answer": "Iron deficiency anemia",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 52 years old, presenting with progressive shortness of breath and chest pain for 2 weeks. lab results: FEV1/FVC ratio 0.71, D-dimer 1500 ng/mL, Troponin I 3.5 ng/mL.",
+        "answer": "Pulmonary Embolism",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 45 years old, presents with progressive shortness of breath and chest pain for 2 months. Lab results show anemia with hemoglobin 8.5 g/dL, leukocytosis with white blood count 15.3 k/mm3, and BNP level 1000 pg/mL.",
+        "answer": "Dilated cardiomyopathy",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "55-year-old female presents with progressive shortness of breath and fatigue over 3 months. Chest X-ray shows bilateral interstitial infiltrates, BNP is elevated at 500 pg/mL, and echocardiogram reveals left ventricular ejection fraction of 30%.",
+        "answer": "Idiopathic Pulmonary Fibrosis",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 55 years old, presenting with progressive shortness of breath and fatigue for 3 months. Chest X-ray shows bilateral interstitial lung infiltrates. Lab results: hemoglobin 10.5 g/dL, creatinine 1.3 mg/dL, BNP 200 pg/mL.",
+        "answer": "Idiopathic Pulmonary Fibrosis",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "Female patient, 58 years old, presents with progressive shortness of breath and chest pain for 3 months. Past medical history includes hypertension and hyperlipidemia. Lab results: Hb 10 g/dL, Hct 30%, SaO2 88%, Troponin 2.5 ng/mL, BNP 500 pg/mL, EF 30%.",
+        "answer": "Ischemic cardiomyopathy or coronary artery disease",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 65-year-old retired teacher presents with complaints of joint pain and stiffness. She reports a long-standing history of hypothyroidism and hypertension, but denies any recent infection or trauma. Her primary symptoms are:\n1. Pain in the metacarpophalangeal joints\n2. Morning stiffness in her knees lasting over an hour\n3. Limited range of motion in her cervical spine",
+        "answer": [
+            "Pain in the metacarpophalangeal joints",
+            "Morning stiffness in her knees",
+            "Limited range of motion in her cervical spine"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 78-year-old female presents to the clinic with the following complaints: ",
+        "distractors": [
+            "has been experiencing intermittent abdominal pain for the past week, which is not related to her current complaint",
+            "has been taking a new medication for hypertension for the past month, which she reports has been effective"
+        ],
+        "symptoms": [
+            "Shortness of breath during physical activity",
+            "Chest pain radiating to the left arm",
+            "Dizziness and fainting episodes"
+        ],
+        "answer": [
+            "Chest pain radiating to the left arm",
+            "Shortness of breath during physical activity",
+            "Dizziness and fainting episodes"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 22-year-old male athlete presents to the clinic with a chief complaint of cough and shortness of breath. He reports experiencing these symptoms for the past week, but they have worsened in the last 2 days. He denies any chest pain, fever, or chills. His past medical history is significant for asthma, which he has been managing with an inhaler for the past 5 years. He is a competitive runner and has been training extensively for an upcoming marathon. In his free time, he enjoys playing guitar and reading. On physical examination, his vital signs are within normal limits. The lungs are clear to auscultation. His chest x-ray is normal. He has no signs of distress. His lab work is unremarkable. His asthma is currently well-controlled. Which of the following symptoms best describes the patient's current presentation?",
+        "answer": [
+            "cough",
+            "shortness of breath"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 12-year-old boy presents to the clinic with complaints of increased thirst and urination. He also mentions his recent growth spurt and frequent leg cramps at night. Besides these symptoms, he reports that his parents recently moved to a new house with a pool, and he has been swimming extensively. He denies any family history of endocrine disorders. Which of the following symptoms are related to his endocrine issue?",
+        "answer": [
+            "increased thirst",
+            "frequent urination",
+            "growth spurt"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 50-year-old male office worker presents to the clinic with the following complaints: he has noticed intermittent, dark-colored urine for the past 2 weeks, and intermittent dizziness for the past week. He also reports a recent weight loss of 10 pounds without any change in diet or exercise. His medical history is significant for hypertension, for which he takes lisinopril and hydrochlorothiazide.",
+        "answer": [
+            "dark-colored urine",
+            "intermittent dizziness",
+            "recent weight loss"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 50-year-old male office worker presents with the following complaints: ",
+        "distractor_1": "1. Chronic back pain and decreased appetite for the past month.",
+        "distractor_2": "2. Intermittent dizziness and recent change in vision for the past week.",
+        "symptoms": [
+            "3. Productive cough with clear sputum.",
+            "4. Shortness of breath with exertion.",
+            "5. Chest pain radiating to the left arm."
+        ],
+        "answer": [
+            "Productive cough with clear sputum.",
+            "Shortness of breath with exertion.",
+            "Chest pain"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 12-year-old boy presents to the clinic with complaints of gastrointestinal disturbances and frequent headaches. He also reports a new onset of bedwetting. In addition, he mentions having a family history of diabetes. On neurological exam, the following findings are noted: 1) Ataxia, 2) Hyperreflexia, 3) Slurred speech.",
+        "answer": [
+            "Ataxia",
+            "Hyperreflexia",
+            "Slurred speech"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 22-year-old male athlete presents to the clinic with the following complaints: ",
+        "distractor_1": "Recent travel to a tropical climate causing gastrointestinal discomfort, ",
+        "distractor_2": "Allergic reaction to a new pet at home leading to itchy eyes and sneezing, ",
+        "symptoms": [
+            "Shortness of breath during exertion",
+            "Chest pain with palpitation after intense workouts",
+            "Dizziness and lightheadedness during physical activity"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 40-year-old female construction worker presents with the following complaints: \n1. Intermittent lower back pain after lifting heavy loads.\n2. Persistent cough and hoarseness.\n3. Gnawing epigastric pain worsened by food intake.",
+        "answer": [
+            "gnawing epastric pain",
+            "worsened by food intake",
+            "epigastric pain"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 65-year-old retired teacher presents with the following complaints: 1. Persistent right hip pain worsened with sitting and climbing stairs, 2. Morning stiffness in both hands lasting over 30 minutes, 3. Intermittent pain in the right elbow aggravated by lifting objects.  Distractors: 1. Recent travel to a tropical climate, 2. Daily consumption of a spicy diet. ",
+        "answer": [
+            "right hip pain",
+            "morning stiffness in hands",
+            "pain in right elbow"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 22-year-old male athlete presents to the clinic with the following complaints: 1. Persistent fatigue and shortness of breath, worsening over the past month, despite regular exercise and proper nutrition; 2. Intermittent episodes of dizziness and headache, especially after prolonged physical activity; 3. __________________, __________________.",
+        "answer": [
+            "pallor",
+            "ecchymosis"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 78-year-old female presents to the clinic with complaints of cough, shortness of breath, and chest pain. She is a retired school teacher and enjoys knitting in her spare time. She also reports experiencing frequent heartburn after meals and has a pet cat at home. What are the three primary presenting symptoms?",
+        "answer": [
+            "cough",
+            "shortness of breath",
+            "chest pain"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 35-year-old pregnant woman presents to the clinic with the following complaints: 1. She has been experiencing intermittent numbness in her left hand and fingers, which resolves with rest. 2. She reports difficulty with fine motor tasks, such as buttoning her blouse or tying her shoelaces. 3. Lately, she has been experiencing occasional dizziness and lightheadedness, especially when standing up from a seated position. 4. She denies any visual disturbances or speech difficulties. 5. She has no known past medical history and takes no medications. 6. Her current pregnancy is uncomplicated, and she is 28 weeks gestational age. \nWhich of the following symptoms is she presenting with?",
+        "answer": [
+            "numbness in left hand and fingers",
+            "difficulty with fine motor tasks",
+            "dizziness and lightheadedness"
+        ],
+        "difficulty_level": "Easy"
+    },
+    {
+        "question": "A 50-year-old male office worker presents to the clinic with the following complaints: ",
+        "answer": [
+            "Shortness of breath on exertion",
+            "Chest pain radiating to the left arm",
+            "Dizziness and lightheadedness"
+        ],
+        "difficulty_level": "Easy",
+        "irrelevant_detail_1": "He is a avid marathon runner",
+        "irrelevant_detail_2": "He has no known allergies"
+    },
+    {
+        "question": "A 12-year-old boy presents with a 1-week history of intermittent abdominal pain, loss of appetite, and nausea. On physical examination, his abdomen is tender in the right lower quadrant. He has normal vital signs and no fevers. Which diagnostic test would be the initial investigation to confirm the suspected diagnosis of appendicitis?",
+        "answer": "Ultrasound or CT Abdomen with contrast",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 22-year-old male athlete presents with a 3-week history of progressive left knee pain. He reports swelling and tenderness over the medial joint line. He denies any previous injury. On examination, there is tenderness to palpation and a palpable mass. Which imaging modality is the initial test of choice to confirm the diagnosis?",
+        "answer": "MRI Knee",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 65-year-old retired teacher presents with a 3-week history of progressive shortness of breath and a non-productive cough. His medical history is significant for hypertension and gastroesophageal reflux disease. On physical exam, he appears chronically ill and pale. His vital signs are: Temperature: 37.2\u00b0C (99.0\u00b0F), Pulse: 100 bpm, Blood Pressure: 150/90 mmHg, Respiratory rate: 24 breaths per minute, and Oxygen saturation: 92% on room air. Chest auscultation reveals decreased breath sounds and fine, crackles at the base of both lungs. His chest X-ray is most consistent with which diagnosis?",
+        "answer": "Chest CT with contrast",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 50-year-old male office worker presents with exertional chest pain. ECG reveals ST-segment elevation in leads II, III, and aVf. What is the initial diagnostic test of choice?",
+        "answer": "Cardiac catheterization",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 40-year-old female construction worker presents with epigastric pain, early satiety, and unintentional weight loss for the past 3 months. She denies any history of alcohol consumption or NSAID use. On physical examination, her abdomen is tender in the right upper quadrant. Laboratory results reveal a hemoglobin level of 12.5 g/dL, white blood cell count of 14.5 x 10^3/\u03bcL, and alanine aminotransferase level of 150 U/L. Which imaging test should be performed first to evaluate for the cause of her symptoms?",
+        "answer": "Ultrasound Abdomen with Doppler",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 50-year-old male office worker presents with a 2-week history of progressive left upper extremity pain and weakness. He describes the pain as aching and radiating from his shoulder to the elbow. He also reports decreased grip strength and inability to lift objects above his head. On examination, there is tenderness over the anterior deltoid and biceps, with reduced range of motion in the left shoulder. which diagnostic test would provide the definitive diagnosis?",
+        "answer": "MRI Shoulder",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 35-year-old pregnant woman presents with a 3-month history of fatigue, polydipsia, and polyuria. Fasting blood glucose level is 250 mg/dL. Which diagnostic test should be performed first to confirm the diagnosis?",
+        "answer": "Oral Glucose Tolerance Test",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 22-year-old male athlete presents with fatigue, pallor, and shortness of breath. His CBC reveals a hemoglobin level of 8 g/dL and a hematocrit of 24%. What diagnostic test should be performed to confirm the diagnosis of this condition?",
+        "answer": "Bone marrow aspiration and biopsy",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 65-year-old retired teacher presents with exertional chest pain and shortness of breath. His past medical history is significant for hypertension and hyperlipidemia. On physical examination, his blood pressure is 160/95 mmHg, pulse is 90 beats per minute, and respirations are 20 per minute. His electrocardiogram shows ST-segment elevation in leads II, III, and aVf. Which imaging modality is the initial test of choice to confirm the diagnosis?",
+        "answer": "Echocardiogram",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 22-year-old male athlete presents with progressive left-sided weakness and sensory loss. He reports recent head trauma. Neurological exam reveals left facial droop, left arm and leg weakness, and decreased pinprick sensation on the left side. Which diagnostic test is the gold standard for evaluating suspected acute ischemic stroke?",
+        "answer": "Magnetic Resonance Angiography (MRA)",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 12-year-old boy presents with acute onset of left ankle pain and swelling. He reports a twisting injury sustained during a soccer game. His physical exam reveals tenderness and warmth over the posterior aspect of the ankle, with no open wounds or deformity. Which imaging modality would be the initial diagnostic test of choice?",
+        "answer": "MRI Ankle",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 40-year-old female construction worker presents with a 6-month history of progressive left shoulder pain, aggravated by overhead activities. She denies any recent injury or trauma. On examination, there is tenderness over the superior aspect of the left shoulder and limited active elevation. What imaging modality would be the initial test of choice to evaluate for this presentation?",
+        "answer": "X-ray Shoulder with AP and lateral views",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 40-year-old female construction worker presents with a 3-month history of progressive shortness of breath and cough, worsened by exertion. She denies chest pain, hemoptysis, or fever. Her examination reveals decreased breath sounds and crackles heard at the bases of both lungs. Chest X-ray is indicated for this patient.",
+        "answer": "Chest X-ray",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 65-year-old retired teacher presents with a 2-week history of gait instability and progressive left-sided weakness. He denies any recent head injury or trauma. Neurological exam reveals left hemiparesis with decreased sensation to light touch and pinprick on the left side. There is no visual impairment or speech disturbance. Which initial imaging study would be most appropriate in this clinical scenario?",
+        "answer": "MRI Brain with contrast",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 35-year-old pregnant woman presents with epigastric pain and vomiting for 3 days. She denies fever, chills, or diarrhea. Her physical exam is unremarkable. Which initial diagnostic test would be most appropriate for this patient?",
+        "answer": "Ultrasound of the liver and gallbladder",
+        "difficulty_level": "Medium"
+    },
+    {
+        "question": "A 12-year-old boy presents with a 3-week history of progressive right hip pain, limited abduction and external rotation, and a palpable mass. Radiographs reveal a lytic lesion in the superior iliac wing with smooth sclerotic borders, and a biopsy reveals the presence of multinucleated giant cells containing lipid-laden histiocytes. Lab values include a normal WBC count, anemia with a MCV of 73 fL, an ESR of 54 mm/h, and an ALP of 1388 IU/L.",
+        "answer": "Giant Cell Tumor of Bone",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 50-year-old male office worker presents with progressive fatigue, pallor, and easy bruising for 2 months. His CBC reveals a hemoglobin of 9 g/dL, hematocrit of 27%, and platelet count of 95,000/mm3. His reticulocyte count is 4.5% and his peripheral smear shows microcytic, hypochromic RBCs, target cells, and burr cells. His bone marrow biopsy reveals a normocellular marrow with trilineage maturation, but with a distinct population of atypical megakaryocytes with large nuclei and multiple nucleoli. What is the diagnosis?",
+        "answer": "Aplastic Anemia, Severe",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 50-year-old male office worker presents with progressive fatigue, shortness of breath, and intermittent palpitations. CBC reveals a microcytic anemia with a MCV of 72 fL, MCHC of 31 g/dL, and a reticulocyte count of 5.1%. Leukocyte count is normal. Peripheral smear shows microcytes, target cells, and Pappenheim bodies. B12 and folate levels are normal. Iron studies reveal a transferrin saturation of 15% and ferritin level of 10 ng/mL.",
+        "answer": "Thalassemia Major",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 65-year-old retired teacher presents with a 3-month history of progressive abdominal pain, weight loss, and fatigue. Workup includes an esophagogastroduodenoscopy revealing a 3 cm ulcer in the duodenal bulb with a biopsy showing intestinal metaplasia and a negative Helicobacter pylori test. Serum levels of gastrin are elevated at 1000 pg/mL (normal <100 pg/mL), and a 24-hour urine test reveals an elevated chromogranin A level of 150 ng/mL (normal <50 ng/mL).",
+        "answer": "Zollinger-Ellison Syndrome",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 78-year-old female presents with progressive fatigue, pallor, and ecchymoses. CBC reveals a hemoglobin level of 7.5 g/dL, hematocrit of 22.3%, platelet count of 45,000/\u03bcL, and reticulocyte count of 3.8%. Bone marrow biopsy reveals an increase in trilineage cells, but predominantly erythroid and myeloid precursors. Peripheral blood smear shows numerous schistocytes, tear-drop cells, and occasional nucleated red blood cells. What is the diagnosis?",
+        "answer": "Microangiopathic Hemolytic Anemia (Thrombotic Microangiopathy)",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 78-year-old female presents with progressive gait disturbance and left-sided weakness over the past month. Neurological exam reveals left-sided facial droop, motor weakness in all four extremities, and hyperreflexia. CSF analysis reveals normal leukocyte count, but elevated protein (120 mg/dL) with normal glucose. Brain MRI shows bilateral basal ganglia lesions with restricted diffusion and increased T2 signal. Lyme disease and Huntington's disease are ruled out by negative antibodies and normal DNA sequencing, respectively. The patient's symptoms, imaging findings, and CSF profile are most consistent with:",
+        "answer": "Hallervorden-Spatz Syndrome",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 35-year-old pregnant woman presents with shortness of breath and a persistent non-productive cough. Chest X-ray reveals bilateral infiltrates with no cardiomegaly or pleural effusion. Arterial blood gas analysis shows pH 7.35, PaCO2 42 mmHg, and PaO2 60 mmHg on room air. Which specific respiratory condition is this patient most likely diagnosed with?",
+        "answer": "Pulmonary Edema due to preeclampsia with severe fetal growth restriction",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 35-year-old pregnant woman at 28 weeks' gestation presents with progressive right lower extremity swelling and pain. She denies shortness of breath or chest pain. Lab results reveal a serum Creatinine of 1.5 mg/dL, an elevated alkaline phosphatase of 450 U/L, and a negative D-dimer. X-ray reveals a fusiform swelling of the right popliteal vein. What is the likely diagnosis?",
+        "answer": "Thrombophlebitis, specifically a deep vein thrombosis with a popliteal vein involvement",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 40-year-old female construction worker presents with a 2-week history of progressively worsening epigastric pain, loss of appetite, and unintentional weight loss of 20 lbs. She denies any significant recent infection or trauma. Physical exam reveals a palpable mass in the right upper quadrant, and laboratory tests reveal a serum CA 19-9 level of 300 U/mL and a normal lipase and amylase. HIDA scan shows no gallbladder emptying, and ERCP reveals a stricture in the distal common bile duct.",
+        "answer": "Cholangiocarcinoma",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 12-year-old boy presents with symptoms of increased thirst, frequent urination, and unexplained weight loss for the past 3 months. Lab tests reveal a random plasma glucose of 350mg/dL, HbA1c of 11.5%, and a C-peptide level below detection limit. Fasting insulin is 40mU/L and a ketone body test is negative. What is the most likely diagnosis?",
+        "answer": "Type 1 Diabetes Mellitus",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 78-year-old female presents with a 2-week history of progressive abdominal pain, weight loss, and anemia. Workup includes a normal CBC, ESR, and CRP, but a capsule endoscopy reveals multiple small intestine ulcers with scalloped edges and a biopsy reveals spiral acanthosis and crypt distortion suggestive of a specific gastrointestinal malignancy. Which diagnosis is most likely?",
+        "answer": "Carcinoid tumor",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 35-year-old pregnant woman presents with worsening shortness of breath for 2 weeks. Chest X-ray shows bilateral infiltrates with no cardiomegaly. Arterial blood gas reveals a pH of 7.32, PaCO2 of 35 mmHg, and HCO3- of 24 mEq/L. Leukocyte count is 15,000/mm3 with 12% bands. Methaemoglobin level is 10%. Which specific respiratory disorder is she most likely suffering from?",
+        "answer": "Methaemoglobinemia",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 12-year-old boy presents with a 3-month history of progressive weight gain, increased thirst, and nocturnal enuresis. Initial lab work reveals a serum glucose of 350 mg/dL, HbA1c of 11.5%, and a random C-peptide level of <0.2 ng/mL. Ultrasound reveals a normal pancreas and no adenomegaly. What is the likely diagnosis?",
+        "answer": "Type 1 Diabetes Mellitus with LADA (Latent Autoimmune Diabetes in Adults) variant",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 22-year-old male athlete presents with progressive gait ataxia, slurred speech, and left-sided weakness for 4 weeks. Neurological exam reveals decreased sensation to light touch and pinprick on the left side, hyperreflexia, and clonus in the left leg. CSF analysis reveals elevated protein (100 mg/dL), normal glucose (70 mg/dL), and 10 white blood cells/mm3 with 100% mononuclear cells. Brain MRI shows bilateral putaminal lesions with restricted diffusion. What is the diagnosis?",
+        "answer": "Huntington's Disease",
+        "difficulty_level": "Hard"
+    },
+    {
+        "question": "A 50-year-old male office worker presents with progressive shortness of breath, productive cough, and chest pain for 2 months. Chest X-ray reveals a right lower lobe mass with a cavitary lesion, and a CT scan confirms the presence of a centrally located mass with thickened and irregular walls, narrowing the main bronchus and obliterating the right hilar structures. Lab values include a normal white blood cell count, high erythrocyte sedimentation rate (ESR) of 75 mm/h, and an elevated angiotensin-converting enzyme (ACE) level of 125 U/L. The patient denies any history of smoking or exposure to asbestos. Sputum smear and culture are negative for tuberculosis and fungal infections.",
+        "answer": "Primary Adenocarcinoma of the Lung",
+        "difficulty_level": "Hard"
+    }
+]

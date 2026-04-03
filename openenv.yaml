@@ -1,0 +1,22 @@
+name: "ClinicalDiagnosisEnv"
+version: "1.0.0"
+description: "A medical triage environment that evaluates an AI agent's ability to extract symptoms, recommend imaging, and provide differential diagnoses."
+
+# What the Agent sees (The patient's clinical vignette)
+observation_space:
+  type: "string"
+  description: "A text description of the patient's demographics, symptoms, and the specific diagnostic task."
+
+# What the Agent outputs (The diagnosis or test recommendation)
+action_space:
+  type: "string"
+  description: "The agent's medical response to the prompt."
+
+# Hackathon Requirement: Explicitly define the tasks
+tasks:
+  - name: "Symptom Extraction"
+    difficulty: "Easy"
+  - name: "Initial Testing"
+    difficulty: "Medium"
+  - name: "Differential Diagnosis"
+    difficulty: "Hard"

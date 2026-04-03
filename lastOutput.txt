@@ -1,0 +1,55 @@
+(openenv_med) dev@dev-HP-Laptop-14s-dq1xxx:~/Desktop/codes/meta-medical-env$ python inference.py
+
+--- Starting Medical Triage Evaluation ---
+
+Loading local embedding model (this takes a few seconds the first time)...
+Loading weights: 100%|█████████████████████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 4532.00it/s]
+BertModel LOAD REPORT from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+[Episode 1/5]
+Patient: A 45-year-old female presents with persistent abdominal pain, loss of appetite, and unintended weight loss. Upon physica ...
+Agent Answer: Liver Function Tests (LFTs)
+   -> [Vector Debug] Similarity Score: 0.256
+Ground Truth: Abdominal Ultrasound
+Difficulty: Medium
+Reward: 0.0
+
+[Episode 2/5]
+Patient: A 45-year-old female presents with persistent upper abdominal pain, jaundice, and dark urine. She reports recent fatigue ...
+Agent Answer: Hepatocellular carcinoma
+   -> [Vector Debug] Similarity Score: 0.094
+Ground Truth: Ultrasound
+Difficulty: Medium
+Reward: 0.0
+
+[Episode 3/5]
+Patient: A 35-year-old pregnant woman presents with worsening shortness of breath for 2 weeks. Chest X-ray shows bilateral infilt ...
+Agent Answer: Pneumonia
+Ground Truth: Methaemoglobinemia
+Difficulty: Hard
+Reward: 0.1
+
+[Episode 4/5]
+Patient: A 22-year-old male athlete presents with fatigue, pallor, and shortness of breath. His CBC reveals a hemoglobin level of ...
+Agent Answer: Peripheral Blood Smear
+   -> [Vector Debug] Similarity Score: 0.392
+Ground Truth: Bone marrow aspiration and biopsy
+Difficulty: Medium
+Reward: 0.0
+
+[Episode 5/5]
+Patient: A 45-year-old female patient presents with persistent abdominal pain located in the upper right quadrant, loss of appeti ...
+Agent Answer: Liver Biopsy
+   -> [Vector Debug] Similarity Score: 0.383
+Ground Truth: Ultrasound
+Difficulty: Medium
+Reward: 0.0
+
+--- Evaluation Complete ---
+Average Score: 0.02
+
