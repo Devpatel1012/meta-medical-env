@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "primary_agent_model": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "total_episodes": 5
+  },
+  "results": [
+    {
+      "episode_id": 1,
+      "task_difficulty": "Easy",
+      "ground_truth": [
+        "persistent cough",
+        "fatigue",
+        "shortness of breath"
+      ],
+      "prediction": [
+        "persistent cough",
+        "fatigue",
+        "shortness of breath"
+      ],
+      "confidence": 0.98,
+      "score": 1.0,
+      "model_used": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    {
+      "episode_id": 2,
+      "task_difficulty": "Easy",
+      "ground_truth": [
+        "Shortness of breath on exertion",
+        "Chest pain radiating to the left arm",
+        "Dizziness and lightheadedness"
+      ],
+      "prediction": [
+        "Dehydration",
+        "Overtraining"
+      ],
+      "confidence": 0.85,
+      "score": 0.0,
+      "model_used": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    {
+      "episode_id": 3,
+      "task_difficulty": "Medium",
+      "ground_truth": "Magnetic Resonance Imaging (MRI) of the brain",
+      "prediction": "Magnetic Resonance Angiography (MRA) of the brain",
+      "confidence": 0.92,
+      "score": 0.723,
+      "model_used": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    {
+      "episode_id": 4,
+      "task_difficulty": "Hard",
+      "ground_truth": "Huntington's Disease",
+      "prediction": [
+        "Cerebral Vasculitis",
+        "Hemorrhagic Stroke",
+        "Cerebral Malaria"
+      ],
+      "confidence": 0.85,
+      "score": 0.0,
+      "model_used": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    {
+      "episode_id": 5,
+      "task_difficulty": "Hard",
+      "ground_truth": "Heart failure, likely due to left ventricular dysfunction",
+      "prediction": [
+        "Heart Failure",
+        "Anemia",
+        "Chronic Kidney Disease"
+      ],
+      "confidence": 0.92,
+      "score": 0.5,
+      "model_used": "meta-llama/Meta-Llama-3-8B-Instruct"
+    }
+  ],
+  "average_score": 0.445
+}
