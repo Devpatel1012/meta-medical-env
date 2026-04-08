@@ -3,8 +3,6 @@ import json
 import logging
 from openai import OpenAI
 from dotenv import load_dotenv
-
-# 🚨 Updated imports to match the new folder structure
 from server.final_env_environment import FinalEnvironment
 from models import MedicalAction
 
@@ -23,16 +21,19 @@ client = OpenAI(
 def run_agent():
     print(f"[START] Starting inference for model: {MODEL_NAME}")
     
-   
     env = FinalEnvironment()
     curriculum = ["Easy", "Easy", "Medium", "Hard", "Hard"]
-    total_reward = 0
+    total_reward = 0.0
     results = []
 
     for ep, target_diff in enumerate(curriculum):
         obs = env.reset(target_difficulty=target_diff)
-        patient_case = obs.text
+        # Safely get the observation text
+        patient_case = getattr(obs, 'observation', "")
         
+        if not patient_case:
+            continue
+
         try:
             response = client.chat.completions.create(
                 model=MODEL_NAME,
@@ -56,27 +57,35 @@ def run_agent():
                 prediction = raw_output
 
             typed_action = MedicalAction(prediction=str(prediction))
-            _, reward, _, info = env.step(typed_action)
-            total_reward += reward
+            
+            # --- FIXED ACCESS HERE ---
+            # env.step returns a MedicalObservation object, not a tuple
+            obs_result = env.step(typed_action)
+            
+            # Access attributes directly from the object
+            reward_val = float(getattr(obs_result, 'reward', 0.0))
+            info = getattr(obs_result, 'info', {})
+            
+            total_reward += reward_val
 
             step_data = {
                 "episode": ep + 1,
                 "task": target_diff,
-                "reward": round(float(reward), 3),
+                "reward": round(reward_val, 3),
                 "prediction": str(prediction)[:50]
             }
             print(f"[STEP] {json.dumps(step_data)}")
             
             results.append({
                 "episode_id": ep + 1,
-                "score": round(reward, 3),
-                "ground_truth": info['ground_truth']
+                "score": round(reward_val, 3),
+                "ground_truth": info.get('ground_truth', '') if isinstance(info, dict) else ''
             })
 
         except Exception as e:
             print(f"Error in episode {ep+1}: {e}")
 
-    avg_score = round(total_reward / len(curriculum), 3)
+    avg_score = round(total_reward / len(curriculum), 3) if curriculum else 0.0
     
     with open("hackathon_results.json", "w") as f:
         json.dump({"average_score": avg_score, "results": results}, f, indent=2)
