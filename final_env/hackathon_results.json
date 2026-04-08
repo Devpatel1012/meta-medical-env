@@ -1,33 +1,32 @@
 {
-  "average_score": 0.912,
+  "average_score": 0.311,
   "results": [
     {
       "episode_id": 1,
-      "score": 1.0,
+      "score": 0.553,
       "ground_truth": [
         "persistent cough",
-        "fatigue",
-        "shortness of breath"
+        "body aches",
+        "low-grade fever"
       ]
     },
     {
       "episode_id": 2,
-      "score": 1.0,
+      "score": 0.0,
       "ground_truth": [
-        "Fatigue",
-        "Frequent headaches",
-        "Persistent cough"
+        "pallor",
+        "ecchymosis"
       ]
     },
     {
       "episode_id": 3,
-      "score": 0.758,
-      "ground_truth": "Ultrasound Abdomen with Doppler"
+      "score": 0.0,
+      "ground_truth": "Chest X-ray"
     },
     {
       "episode_id": 4,
-      "score": 0.8,
-      "ground_truth": "Dilated cardiomyopathy"
+      "score": 0.0,
+      "ground_truth": "Aplastic Anemia, Severe"
     },
     {
       "episode_id": 5,
