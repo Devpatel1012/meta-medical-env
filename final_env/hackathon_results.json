@@ -1,37 +1,51 @@
 {
-  "average_score": 0.311,
+  "average_score": 0.465,
   "results": [
     {
       "episode_id": 1,
-      "score": 0.553,
+      "score": 1.0,
+      "prediction": [
+        "fatigue",
+        "headaches",
+        "persistent cough"
+      ],
       "ground_truth": [
-        "persistent cough",
-        "body aches",
-        "low-grade fever"
+        "Fatigue",
+        "Headaches",
+        "Persistent Cough"
       ]
     },
     {
       "episode_id": 2,
-      "score": 0.0,
+      "score": 0.49597981572151184,
+      "prediction": [
+        "Fatigue",
+        "Headache",
+        "Muscle Pain"
+      ],
       "ground_truth": [
-        "pallor",
-        "ecchymosis"
+        "Persistent cough",
+        "High fever",
+        "Severe headache"
       ]
     },
     {
       "episode_id": 3,
       "score": 0.0,
-      "ground_truth": "Chest X-ray"
+      "prediction": "TB Quantiferon Gold test",
+      "ground_truth": "Computed Tomography (CT) scan of the lungs"
     },
     {
       "episode_id": 4,
-      "score": 0.0,
-      "ground_truth": "Aplastic Anemia, Severe"
+      "score": 0.5,
+      "prediction": "Acute Coronary Syndrome, Heart Failure",
+      "ground_truth": "Myocardial infarction"
     },
     {
       "episode_id": 5,
-      "score": 1.0,
-      "ground_truth": "Zollinger-Ellison Syndrome"
+      "score": 0.33,
+      "prediction": "Sarcoidosis, Lymphoma, Bronchogenic Carcinoma",
+      "ground_truth": "Primary Adenocarcinoma of the Lung"
     }
   ]
 }
