@@ -1,0 +1,41 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# All rights reserved.
+#
+# This source code is licensed under the BSD-style license found in the
+# LICENSE file in the root directory of this source tree.
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openenv-final_env"
+version = "0.1.0"
+description = "Final Env environment for OpenEnv"
+requires-python = ">=3.10"
+dependencies = [
+    "openenv-core[core]>=0.2.0",
+    "openai>=1.0.0",
+    "sentence-transformers==2.5.1",
+    "scikit-learn==1.4.1.post1",
+    "numpy==1.26.4",
+    "python-dotenv==1.0.1",
+    "transformers==4.40.2",
+    "tokenizers==0.19.1"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=4.0.0",
+]
+
+[project.scripts]
+# Server entry point - enables running via: uv run --project . server
+# or: python -m final_env.server.app
+server = "final_env.server.app:main"
+
+[tool.setuptools]
+include-package-data = true
+packages = ["final_env", "final_env.server"]
+package-dir = { "final_env" = ".", "final_env.server" = "server" }
