@@ -1,50 +1,30 @@
 {
-  "average_score": 0.364,
+  "average_score": 0.443,
   "results": [
     {
       "episode_id": 1,
       "score": 0.01,
       "prediction": [
-        "Carpal Tunnel Syndrome",
-        "Pregnancy-Related Orthostatic Hypotension"
+        "Possible dehydration due to excessive sweating during marathon running",
+        "Potential for overuse injuries such as stress fractures or tendonitis"
       ],
       "ground_truth": [
-        "numbness in left hand and fingers",
-        "difficulty with fine motor tasks",
-        "dizziness and lightheadedness"
+        "Shortness of breath on exertion",
+        "Chest pain radiating to the left arm",
+        "Dizziness and lightheadedness"
       ]
     },
     {
       "episode_id": 2,
       "score": 0.99,
-      "prediction": [
-        "Persistent cough",
-        "Intermittent chest pain",
-        "Shortness of breath"
-      ],
-      "ground_truth": [
-        "persistent cough",
-        "intermittent chest pain",
-        "shortness of breath"
-      ]
+      "prediction": "Echocardiogram",
+      "ground_truth": "Echocardiogram"
     },
     {
       "episode_id": 3,
-      "score": 0.01,
-      "prediction": "Irritable Bowel Syndrome (IBS) or Small Intestine Bacterial Overgrowth (SIBO)",
-      "ground_truth": "Abdominal ultrasound or CT scan with contrast"
-    },
-    {
-      "episode_id": 4,
-      "score": 0.01,
-      "prediction": "Pneumonia",
-      "ground_truth": "Pulmonary Edema due to preeclampsia with severe fetal growth restriction"
-    },
-    {
-      "episode_id": 5,
-      "score": 0.8,
-      "prediction": "Chronic Heart Failure",
-      "ground_truth": "Heart failure, likely due to left ventricular dysfunction"
+      "score": 0.33,
+      "prediction": "Acute Coronary Syndrome, Pneumonia, Sepsis",
+      "ground_truth": "Myocardial infarction or acute coronary syndrome"
     }
   ]
 }
